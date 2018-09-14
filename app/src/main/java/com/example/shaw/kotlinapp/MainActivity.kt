@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity(), BottomNavigationBar.OnTabSelectedListe
         viewPager.currentItem = position
     }
 
+
     override fun onTabUnselected(position: Int) {
 
     }
